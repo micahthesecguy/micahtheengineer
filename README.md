@@ -21,6 +21,3 @@
 | **Weight Class** | 2027 Powerlifting Comp Prep | 🟢 Active |
 | **Current Phase** | 3-Month Cut (Fat Loss / Retention) | 🟡 In Progress |
 | **Bodyweight Ops** | Caloric Deficit Hardening | 🔴 Critical (Hungry) |
-
-### 📊 Github Stats
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=micahthesecguy&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
