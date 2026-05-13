@@ -14,7 +14,7 @@
 | **Offensive / VR** | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-336699?style=flat-square&logo=metasploit&logoColor=white) ![Ghidra](https://img.shields.io/badge/Ghidra-6F2FA1?style=flat-square)
 **Automation** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) | |
 | **Defensive Ops** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![SIEM](https://img.shields.io/badge/SIEM%2FSOAR-Hardening-blue?style=flat-square) |
-| **Certifications** | ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat-square&logo=comptia&logoColor=white) ![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-0073B1?style=flat-square&logo=comptia&logoColor=white) ![Ignition Core](https://img.shields.io/badge/Inductive_Automation-Ignition_Core-orange?style=flat-square) |
+| **Certifications** | ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat-square&logo=comptia&logoColor=white) ![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-0073B1?style=flat-square&logo=comptia&logoColor=white) ![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-0073B1?style=flat-square&logo=comptia&logoColor=white)
 ### 🏋️ Current Training Cycles
 | Focus | Goal | Status |
 | :--- | :--- | :--- |
